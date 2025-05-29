@@ -1,0 +1,1 @@
+# Infrastructure layer - handles external systems and data access 

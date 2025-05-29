@@ -1,0 +1,1 @@
+# Application layer - orchestrates business logic and handles user interaction 
